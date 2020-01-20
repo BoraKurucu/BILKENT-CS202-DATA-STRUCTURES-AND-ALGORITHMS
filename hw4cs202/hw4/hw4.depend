@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1558210764 source:c:\users\bora\desktop\hw4cs202\hw4\main.cpp
+	"graph.h"
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+
+1557938901 c:\users\bora\desktop\hw4cs202\hw4\graph.h
+	<list>
+	<map>
+	<queue>
+	<string>
+
+1558209486 source:c:\users\bora\desktop\hw4cs202\hw4\graph.cpp
+	"graph.h"
+
